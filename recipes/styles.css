@@ -1,3 +1,19 @@
+.list { 
+font-family: cursive, Lucida Handwriting;
+
+
+}
+
+
+
+#ingredients {
+color: white;
+background-color: blue;
+font-family: Sans-serif, arial;
+ }
+
+
+
 .spicy {background-color: hsl(179, 100%, 70%); color: black; }
 p {
   color: black;
@@ -9,3 +25,14 @@ color: black; }
 
 ul { 
 color: red; }
+
+
+.recipe {
+font-weight: bold;
+background-color: yellow;
+color: black;
+
+
+
+
+ }
